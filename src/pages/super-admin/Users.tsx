@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import {
     Search,
-    MoreVertical,
     Calendar,
     Download,
     Eye,
