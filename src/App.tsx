@@ -40,8 +40,8 @@ function App() {
   // Mock auth state
   const auth: { isAuthenticated: boolean; role: 'super_admin' | 'partner_admin' | 'cca' | 'user'; userName: string } = {
     isAuthenticated: true,
-    role: 'user',
-    userName: '방문객'
+    role: 'super_admin',
+    userName: 'Super Admin'
   };
 
   return (

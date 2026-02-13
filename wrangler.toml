@@ -1,0 +1,8 @@
+name = "jtvlove"
+compatibility_date = "2024-04-01"
+pages_build_output_dir = "dist"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "jtvlove-db"
+database_id = "764b739d-497e-4991-bee0-99ef7c511d14"
